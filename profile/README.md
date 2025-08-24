@@ -69,7 +69,7 @@ The system is designed to identify and exploit DeFi market opportunities while m
 
 1. Cloning the repository
 ```
-git clone https://github.com/Shuriken-Bot
+git clone https://github.com/Shuriken-Trading-Bot/
 cd shuriken-bot
 ```
 2. Installation of all packages
